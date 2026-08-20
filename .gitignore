@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.db
+.DS_Store
+.streamlit/
+.cursor/
+.cursorrules
+*.canvas.tsx
